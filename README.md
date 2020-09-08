@@ -1,7 +1,6 @@
-# Hi there, I'm Viral Parmar!
-A Software Engineer, Creative Problem Solver and Open Source Contributor from Mumbai, India. 🔥🔥🔥
+## Hi there, I'm Viral Parmar!
+A Software Engineer, Creative Problem Solver and Open Source Contributor from Mumbai, India.
 
-![enter image description here](https://i.imgur.com/WFgkdkb.png)
 
 👇 *Here are some of the the tools and technologies I work on:*
 
@@ -11,9 +10,11 @@ A Software Engineer, Creative Problem Solver and Open Source Contributor from Mu
 - **Cloud AWS**: - EC2, S3, RDS, Lambda, API Gateway 
 - **Frameworks**: Angular, Flask, ExpressJS, Django
 
+
 I specialize in cloud-based solutions, full-stack web & mobile application development, and fintech solutions architecture. I'm also an AWS Certifed Cloud Practitioner!
 
-# 🌎 Find me everywhere **@viralparmardev** on the internet...
+
+## 🌎 Find me everywhere **@viralparmardev** on the internet...
 
  - https://www.linkedin.com/in/viralparmardev
  - https://github.com/viralparmardev   
@@ -22,10 +23,13 @@ I specialize in cloud-based solutions, full-stack web & mobile application devel
  - https://www.facebook.com/viralparmardev            
  - https://medium.com/@viralparmardev
 
+
+___
 ⚠️ I am open to new ideas, projects and opportunities. Contact me here:
 
-**Email**: viralparmardev@gmail.com
-**Resume**: [https://viralparmar.ml/Resume.pdf](https://viralparmar.ml/Resume.pdf)
+- **Email**: viralparmardev@gmail.com
+- **Resume**: [https://viralparmar.ml/Resume.pdf](https://viralparmar.ml/Resume.pdf)
 
-# Thanks for stopping by! 🙏
+
+## Thanks for stopping by! 🙏
 *© 2020 - Viral Parmar - @viralparmardev*
