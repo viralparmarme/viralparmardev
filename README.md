@@ -11,7 +11,7 @@ A Software Engineer, Creative Problem Solver and Open Source Contributor from Mu
 - **Frameworks**: Angular, Flask, ExpressJS, Django
 
 
-I specialize in cloud-based solutions, full-stack web & mobile application development, and fintech solutions architecture. I'm also an AWS Certifed Cloud Practitioner!
+I specialize in cloud-based solutions, full-stack web & mobile application development, and fintech solutions architecture. I'm also an **AWS Certifed Solutions Architect!**
 
 
 ## 🌎 Find me everywhere **@viralparmardev** on the internet...
