@@ -20,16 +20,14 @@ I specialize in cloud-based solutions, full-stack web & mobile application devel
  - https://github.com/viralparmardev   
  - https://instagram.com/viralparmardev      
  - https://twitter.com/viralparmardev         
- - https://www.facebook.com/viralparmardev            
+ - https://dev.to/viralparmardev          
  - https://medium.com/@viralparmardev
+ - https://viralparmardev.ml
 
 
 ___
-⚠️ I am open to new ideas, projects and opportunities. Contact me here:
-
-- **Email**: viralparmardev@gmail.com
-- **Resume**: [https://viralparmar.ml/Resume.pdf](https://viralparmar.ml/Resume.pdf)
+⚠️ I am open to new ideas, projects and opportunities. Contact me @viralparmardev on Twitter or Instagram.
 
 
 ## Thanks for stopping by! 🙏
-*© 2020 - Viral Parmar - @viralparmardev*
+*© 2021 - Viral Parmar - @viralparmardev*
