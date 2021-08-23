@@ -11,6 +11,8 @@ A Software Engineer and Startup Enthusiast from Mumbai, India.
 - **Frameworks**: Angular, Flask, ExpressJS, Django
 
 
+___
+
 I specialize in cloud-based solutions, full-stack web & mobile application development, and fintech solutions architecture. 
 
 I'm also an **AWS Certifed Solutions Architect!**
