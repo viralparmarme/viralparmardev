@@ -1,5 +1,5 @@
 ## Hi there, I'm Viral Parmar!
-A Software Engineer, Creative Problem Solver and Open Source Contributor from Mumbai, India.
+A Software Engineer and Startup Enthusiast from Mumbai, India.
 
 
 👇 *Here are some of the the tools and technologies I work on:*
