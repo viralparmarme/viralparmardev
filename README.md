@@ -1,19 +1,17 @@
 ## Hi there, I'm Viral Parmar!
-A Software Engineer from Mumbai, India.
 
 
 👇 *Here are some of the the tools and technologies I work on:*
 
-- **Frontend**: HTML 5, CSS 3, JavaScript, TypeScript 
-- **Backend**: C++, Java, PHP, Python, NodeJS, Docker, Kubernetes
-- **Database**: MySQL, PostgreSQL, MongoDB, DynamoDB 
-- **Cloud AWS**: - EC2, S3, RDS, Lambda, API Gateway 
-- **Frameworks**: Angular, React, Flask, ExpressJS, Django
-
+- **Frontend**: JavaScript, React, TypeScript, Angular
+- **Backend**: Python, Go, Java, C++, Swift
+- **Frameworks**: iOS, Node, Flask, Django, Spring Boot
+- **Storage**: - PostgreSQL, MongoDB, Redis 
+- **Frameworks**: AWS, Kafka, Docker, K8S
 
 ___
 
-I specialize in cloud-based solutions, full-stack web & mobile application development, and fintech solutions architecture. 
+I specialize in cloud-based solutions, full-stack web & mobile application development, and architecting fintech software. 
 
 I'm also an **AWS Certifed Solutions Architect!**
 
@@ -21,17 +19,18 @@ I'm also an **AWS Certifed Solutions Architect!**
 ## 🌎 Find me everywhere on the internet...
 
  - https://www.linkedin.com/in/viralparmarme
- - https://github.com/viralparmarme
  - https://instagram.com/viralparmarme  
  - https://twitter.com/viralparmarme  
- - https://dev.to/viralparmar
- - https://medium.com/@viralparmarme
+ - https://blog.viralparmar.me
  - https://viralparmar.me
 
 
 ___
-⚠️ I am open to new ideas, projects and opportunities. Contact me @viralparmarme on Twitter or viralparmarme@gmail.com.
+⚠️ I am open to new ideas, projects and opportunities. Contact me [@viralparmarme](https://twitter.com/viralparmarme) on Twitter or viralparmarme@gmail.com.
 
 
 ## Thanks for stopping by! 🙏
+
+[Download my Resume](https://drive.google.com/file/d/1vjxSux5xbT7zLhcyioGHmKlR9j4dPsGA)
+
 *© 2023 - Viral Parmar - @viralparmarme*
