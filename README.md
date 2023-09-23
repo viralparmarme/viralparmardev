@@ -9,11 +9,9 @@
 - **Storage**: - PostgreSQL, MongoDB, Redis 
 - **Frameworks**: AWS, Kafka, Docker, K8S
 
-![Viral Parmar's Skills](https://skillicons.dev/icons?i=py,js,go,java,cpp,swift,linux,tailwind)
+![Viral Parmar's Skills](https://skillicons.dev/icons?i=py,js,go,java,cpp,swift,linux,tailwind,postgres,mongodb,graphql,redis)
 
-![Viral Parmar's Skills](https://skillicons.dev/icons?i=postgres,mongodb,graphql,redis,react,angular,github,bootstrap)
-
-![Viral Parmar's Skills](https://skillicons.dev/icons?i=flask,django,nodejs,spring,kafka,docker,kubernetes,aws)
+![Viral Parmar's Skills](https://skillicons.dev/icons?i=react,angular,github,bootstrap,flask,django,nodejs,spring,kafka,docker,kubernetes,aws)
 
 ___
 
