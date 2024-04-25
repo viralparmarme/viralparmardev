@@ -1,6 +1,6 @@
 # Hi there, I'm Viral Parmar!
 
-👇 _Here are some of the the tools and technologies I work on:_
+👇 _Here are some of the the tools and technologies I've worked on:_
 
 - **Frontend**: JavaScript, React, TypeScript, Angular
 - **Backend**: Python, Go, Java, C++, Swift
@@ -16,7 +16,7 @@
 
 ---
 
-I specialize in cloud-based solutions, full-stack web & mobile application development, and architecting fintech software.
+I specialize in cloud-based solutions, full-stack web & mobile application development, and architecting fintech grade software.
 
 I'm also an **AWS Certifed Solutions Architect!**
 
@@ -29,6 +29,6 @@ I'm also an **AWS Certifed Solutions Architect!**
 
 ---
 
-⚠️ I am open to new ideas, projects and opportunities. Contact me [@viralparmarme](https://twitter.com/viralparmarme) on Twitter or viralparmarme@gmail.com.
+Feel free to contact me at viralparmarme@gmail.com.
 
 _© 2024 - Viral Parmar - @viralparmarme_
