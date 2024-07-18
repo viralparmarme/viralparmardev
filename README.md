@@ -16,7 +16,7 @@
 
 ---
 
-I specialize in cloud-based solutions, full-stack web & mobile application development, and architecting fintech grade software.
+I specialize in cloud-based solutions, full-stack web & mobile application development, and architecting fintech software.
 
 I'm also an **AWS Certifed Solutions Architect!**
 
@@ -28,6 +28,10 @@ I'm also an **AWS Certifed Solutions Architect!**
 - https://viralparmar.me
 
 ---
+
+I'm currently working as a Software Engineer at Apple.
+
+I've worked at PayPal apart from a few other fintech companies in the past.
 
 Feel free to contact me at viralparmarme@gmail.com.
 
